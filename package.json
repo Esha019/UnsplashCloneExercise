@@ -1,0 +1,32 @@
+{
+  "name": "unsplashclone",
+  "version": "1.0.0",
+  "description": "This is Unsplash Clone",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esha019/UnsplashClone.git"
+  },
+  "author": "Esha Daipule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esha019/UnsplashClone/issues"
+  },
+  "homepage": "https://github.com/Esha019/UnsplashClone#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.3"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
